@@ -7,7 +7,7 @@ I am a passionate and results-driven **DevOps Engineer** with over **8 years of 
 🔧 **Core Skills**
 
 - 🛠 **DevOps Tools**: Docker, Kubernetes, Helm, Jenkins, GitLab CI/CD, ArgoCD, Ansible, Terraform, Packer  
-- ☁️ **Cloud Platforms**: AWS (EKS, EC2, S3, IAM, CloudFormation), GCP, Azure  
+- ☁️ **Cloud Platforms**: AWS (EKS, EC2, S3, IAM, CloudFormation), GCP, Huawei cloud, Alicloud
 - 🧱 **Infrastructure as Code**: Terraform
 - 🔐 **Security & Compliance**: Vault, IAM Policies, CIS Benchmarking, SAST/DAST  
 - 📦 **Containerization & Orchestration**: Docker, Kubernetes, OpenShift  
@@ -31,7 +31,7 @@ I am a passionate and results-driven **DevOps Engineer** with over **8 years of 
 
 📫 **Let's Connect**
 
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/tomi-andreas-4089815a)  
+- LinkedIn: [linkedin.com/in/tomiandreas](https://linkedin.com/in/tomiandreas)  
 - Blog: [dev.to/tomiandreas](https://dev.to/tomiandreas) or [medium.com/@tomiandreas](https://medium.com/@tomiandreas)   
 
 ---
