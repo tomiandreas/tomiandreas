@@ -1,4 +1,4 @@
-# 👨‍💻 Hi, I'm [Your Name] — DevOps Engineer | Cloud Specialist | Automation Enthusiast
+# 👨‍💻 Hi, I'm Tomi Andreas — DevOps Engineer | Cloud Specialist | Automation Enthusiast
 
 🎯 **About Me**
 
